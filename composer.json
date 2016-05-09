@@ -1,0 +1,20 @@
+{
+  "name"       : "hum2/bayes-classifier",
+  "description": "Naive bayes classifier",
+  "type"       : "library",
+  "keywords"   : [
+    "bayesian",
+    "bayes"
+  ],
+  "license"    : "MIT",
+  "authors"    : [
+    {
+      "name" : "Shuhei Suzuki",
+      "email": "hum2.dmg@gmail.com"
+    }
+  ],
+  "require"    : {
+    "php"      : ">=5.4",
+    "psr/cache": "1.0.0"
+  }
+}
